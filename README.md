@@ -1,6 +1,8 @@
 ### Hi there 👋
-
-<!--
+Atuamente trabalho como desenvolvedora android, com java e kotlin.
+Amo aprender novas tecnologias 
+email: Brubassani26@gmail.com
+www.linkedin.com/in/bruna-b-7b0904128
 **bbbssan/bbbssan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
