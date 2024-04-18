@@ -1,5 +1,4 @@
-### Hi there 👋
-Atuamente trabalho como desenvolvedora android, com java e kotlin.Amo aprender novas tecnologias. Sou formada em Ánalise e Desenvolvimento de Sistemas.
-Tenho conhecimento com html e css.
-E-mail:brubassani26@2gmaiol.com
-Linkedin: www.linkedin.com/in/bruna-b-7b0904128
+### Hi , my name's Bruna Bassani. Welcome, nice to meet you! 👋
+Sou apaixonada em aprender novas tecnologias , atualmente desenvolvo na tecnologia Android, com as linguagens Java e Kotlin. 
+Tenho conhecimentos em HTML5, CSS3, e JavaScript também. 
+
